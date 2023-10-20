@@ -1,0 +1,17 @@
+{
+  "ExtendedData": {
+    "inputs": [
+      "https://agentservices.qa.fglife.com/EAppAgentValidationService.svc"
+    ],
+    "collectionTypes": [
+      "System.Array",
+      "System.Collections.Generic.Dictionary`2"
+    ],
+    "namespaceMappings": [
+      "*, agentValidationService"
+    ],
+    "sync": true,
+    "targetFramework": "net6.0",
+    "typeReuseMode": "All"
+  }
+}
